@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero {
+    background-color: #1f2937;
+    height: 100%;
+}
+
+.main-container1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+
+.header  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 16px;
+}
+
+a {
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+img {
+    color: whitesmoke;
+}
+
+.text {
+    font-size: 18px;
+}
